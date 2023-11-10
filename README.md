@@ -1,3 +1,5 @@
+# NOT CURRENTLY MAINTAINED
+
 kodama
 ======
 This crate provides a fast implementation of agglomerative
